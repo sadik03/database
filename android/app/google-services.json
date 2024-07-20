@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "29927596958",
+    "firebase_url": "https://myapk-ee343-default-rtdb.firebaseio.com",
+    "project_id": "myapk-ee343",
+    "storage_bucket": "myapk-ee343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29927596958:android:f64b625f5d559b8ea56c8f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSKbKtUXdUEO8r17YoFXpESIa_wDo-NQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
